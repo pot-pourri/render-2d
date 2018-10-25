@@ -22,7 +22,9 @@
   "bugs": {
     "url": "https://github.com/aureooms/js-render-2d/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@aureooms/js-itertools": "^3.4.0"
+  },
   "devDependencies": {
     "ava": "^0.23.0",
     "babel-cli": "^6.26.0",
@@ -37,7 +39,15 @@
     "nyc": "^11.2.1"
   },
   "homepage": "https://aureooms.github.io/js-render-2d",
-  "keywords": ["2d", "geometry", "lines", "plane", "points", "polygons", "rendering"],
+  "keywords": [
+    "2d",
+    "geometry",
+    "lines",
+    "plane",
+    "points",
+    "polygons",
+    "rendering"
+  ],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
