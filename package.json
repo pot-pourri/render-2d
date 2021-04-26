@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-render-2d/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-render-2d/issues"
   },
   "dependencies": {
     "@aureooms/js-itertools": "^3.4.0"
@@ -52,7 +52,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-render-2d"
+    "url": "https://github.com/make-github-pseudonymous-again/js-render-2d"
   },
   "scripts": {
     "build": "rm -rf lib && babel src -d lib",
